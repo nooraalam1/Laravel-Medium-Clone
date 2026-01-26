@@ -16,12 +16,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-# Laravel Migration – Schema Builder Cheat Sheet
-
-This document explains the most commonly used **Laravel migration column types, helpers, and modifiers** in a simple and practical way.
-
----
-
 ## 1. Basic Columns
 
 ```php
